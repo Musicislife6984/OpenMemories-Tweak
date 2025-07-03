@@ -25,3 +25,4 @@ jobs:
       with:
         name: APK
         path: ${{ github.workspace }}/app/build/outputs/apk/debug/app-debug.apk
+        
